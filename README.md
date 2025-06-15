@@ -29,7 +29,7 @@ I'm a self-taught developer based in **Istanbul, Türkiye 🇹🇷**, currently 
 ---
 
 ## 📌 Featured Projects
--  [ATM Simülasyonu](https://github.com/kerimcodes/atm-simulation) – supports multilingual interface (TR/ENG)
+-  [ATM Simülasyonu] (https://github.com/kerimcodes/atm_simulation) – supports multilingual interface (TR/ENG)
 
 ---
 
@@ -77,7 +77,7 @@ GitHub profiline hoş geldin!
 ---
 
 ## 📌 Öne Çıkan Projeler
-- [ATM Simülasyonu](https://github.com/kerimcodes/atm-simulation) – Çok dilli arayüz desteği (TR/ENG)
+- [ATM Simülasyonu] (https://github.com/kerimcodes/atm_simulation) – Çok dilli arayüz desteği (TR/ENG)
 
 ---
 
