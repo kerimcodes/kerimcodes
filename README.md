@@ -29,7 +29,7 @@ I'm a self-taught developer based in **Istanbul, Türkiye 🇹🇷**, currently 
 ---
 
 ## 📌 Featured Projects
-- [ATM Simulation](https://github.com/kerimcodes/atm-simulation) – supports multilingual interface (TR/ENG)
+-  [ATM Simülasyonu](https://github.com/kerimcodes/atm-simulation) – supports multilingual interface (TR/ENG)
 
 ---
 
@@ -84,7 +84,7 @@ GitHub profiline hoş geldin!
 ## 📫 Benimle İletişime Geç
 - 📍 Konum: İstanbul, Türkiye  
 - 📧 errdurankerim48@gmail.com 
-
+- Bana linkedIn üzerinden de ulaşabilirsiniz(https://www.linkedin.com/in/kerim-erduran-69877136b/)
 ---
 
 > "Büyük işler, bir araya getirilmiş küçük şeylerle yapılır." – Vincent Van Gogh
