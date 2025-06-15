@@ -36,6 +36,8 @@ I'm a self-taught developer based in **Istanbul, Türkiye 🇹🇷**, currently 
 ## 📫 Let's Connect
 - 📍 Location: Istanbul, Türkiye  
 - 📧 erdurankerim48@gmail.com
+- https://www.linkedin.com/in/kerim-erduran-69877136b/
+- You can also find me on ([inkedIn] (https://www.linkedin.com/in/kerim-erduran-69877136b/)
 
 ---
 
