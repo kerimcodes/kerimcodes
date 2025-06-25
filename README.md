@@ -8,7 +8,7 @@ I'm a self-taught developer based in **Istanbul, Türkiye 🇹🇷**, currently 
 ## 🚀 What I'm working on
 - Building my skills in Python with daily practice  
 - Exploring AI fundamentals step by step  
-- Creating simple but functional projects like an **ATM simulation**
+- Creating simple but functional projects like an **ATM simulation** and **Kişisel Finans Yonetimi**
 
 ---
 
@@ -29,7 +29,8 @@ I'm a self-taught developer based in **Istanbul, Türkiye 🇹🇷**, currently 
 ---
 
 ## 📌 Featured Projects
--  [ATM Simülasyonu] (https://github.com/kerimcodes/atm_simulation) – supports multilingual interface (TR/ENG)
+-  [ATM Simülasyonu] (https://github.com/kerimcodes/atm_simulation) 
+-  [Kişisel Finans Yönetini]  (https://github.com/kerimcodes/finans-yonetimi) 
 
 ---
 
@@ -56,7 +57,7 @@ GitHub profiline hoş geldin!
 ## 🚀 Üzerinde Çalıştıklarım
 - Her gün Python pratiğiyle becerilerimi geliştiriyorum  
 - Yapay zekâ temellerini adım adım öğreniyorum  
-- **ATM simülasyonu** gibi basit ama işlevsel projeler geliştiriyorum
+- **ATM simülasyonu** ve **Kişisel Finasn Yönetimi** gibi basit ama işlevsel projeler geliştiriyorum
 
 ---
 
@@ -77,7 +78,8 @@ GitHub profiline hoş geldin!
 ---
 
 ## 📌 Öne Çıkan Projeler
-- [ATM Simülasyonu] (https://github.com/kerimcodes/atm_simulation) – Çok dilli arayüz desteği (TR/ENG)
+- [ATM Simülasyonu] (https://github.com/kerimcodes/atm_simulation)
+- [Kişisel Finans Yönetimi] (https://github.com/kerimcodes/finans-yonetimi)
 
 ---
 
